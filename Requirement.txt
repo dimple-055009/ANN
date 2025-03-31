@@ -8,3 +8,6 @@ seaborn
 scikit-learn
 requests
 shap
+streamlit
+tensorflow
+openpyxl
